@@ -1,5 +1,21 @@
 # calculadora-react
-Calculadora feita em React
+Calculadora feita em React, são três componentes o componente Calculadora, Display e Botão. O componente Calculadora é o principal e ele é composto de um componente Display e varios componentes Botão.
+
+Pre-Requisito
+- NPM (versão 6.9.0) 
+
+São quatro passos para baixar, instalar e executar a calculadora.
+1. Basta fazer o clone do repositorio. 
+  git clone https://github.com/brunoneofiti/calculadora-react
+
+2. Na pasta calculadora-react, usar o NPM para instalar.
+  npm install package.json
+
+3. Na pasta calculadora-react, usar o NPM para executar a calculadora
+  npm start
+  
+4. Abrir o navagador no endereço http://localhost:3000
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
